@@ -183,33 +183,7 @@ minigram/
 
 ---
 
-## License
-
-[MIT License](LICENSE)
-
----
-
-## Contributing
-
-Pull requests and issues are welcome!
-
-### Development Workflow
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Test thoroughly on Android 11+ devices
-5. Submit a PR with clear description
-
-### Code Style
-
-- 100-character max line width
-- Minimal, clean code
-- No unnecessary comments
-
----
-
 ## Acknowledgments
 
 - [ExecuTorch](https://github.com/pytorch/executorch) - On-device ML inference framework
-- [Qwen3](https://github.com/Qwen/Qwen) - Lightweight language model for grammar correction
+- [Qwen3](https://huggingface.co/Qwen/Qwen3-0.6B) - Qwen3 0.6B model
