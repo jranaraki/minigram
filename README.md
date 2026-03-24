@@ -14,6 +14,10 @@
 
 ![MiniGram](https://img.shields.io/badge/version-1.0-blue)
 
+<p align="center">
+    <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="MiniGram" style="width:192; height:auto;">
+</p>
+
 A privacy-preserving Android app that performs real-time grammar correction across all apps using on-device LLM inference via ExecuTorch.
 
 ---
